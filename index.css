@@ -1,0 +1,12 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.normal {
+    font-weight: bold;
+}
+
+#item-todo{
+    display: flex;
+    gap: 5px;
+}
